@@ -3,7 +3,7 @@
 @section('content')
 <div class="flex flex-col w-full">
 <!-- Top Decorative Hero Header (No generic duplication, spatial editorial typography) -->
-<section class="relative w-full overflow-hidden bg-surface-container-lowest px-margin py-space-xl">
+<section class="relative w-full overflow-hidden bg-surface-container-lowest px-margin-mobile md:px-margin py-space-xl">
 <!-- Ambient Structural Background Accents -->
 <div class="absolute -top-24 -right-24 w-96 h-96 rounded-full bg-secondary/5 blur-3xl pointer-events-none"></div>
 <div class="absolute -bottom-20 left-1/3 w-80 h-80 rounded-full bg-surface-variant/40 blur-2xl pointer-events-none"></div>
@@ -53,7 +53,7 @@
 </div>
 </section>
 <!-- 4 Quick Direct Communication Cards -->
-<section class="w-full px-margin py-space-lg bg-surface">
+<section class="w-full px-margin-mobile md:px-margin py-space-lg bg-surface">
 <div class="max-w-7xl mx-auto">
 <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-space-md">
 <!-- Card 1: WhatsApp Sales -->
@@ -163,7 +163,7 @@
 </div>
 </section>
 <!-- Interactive Form & Precise Map Section -->
-<section class="w-full px-margin py-space-xl bg-surface-container-low">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl bg-surface-container-low">
 <div class="max-w-7xl mx-auto">
 <div class="grid grid-cols-1 lg:grid-cols-12 gap-space-xl">
 <!-- Left Column: Official RFP / Inquiry Form -->
@@ -375,7 +375,7 @@
 </div>
 </section>
 <!-- Regional Hubs & Technical Workshop Directory (4 Nationwide Hubs) -->
-<section class="w-full px-margin py-space-xl bg-surface">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl bg-surface">
 <div class="max-w-7xl mx-auto flex flex-col gap-space-lg">
 <div class="flex flex-col md:flex-row md:items-end justify-between gap-space-md">
 <div>
@@ -523,7 +523,7 @@
 </div>
 </section>
 <!-- Interactive Accordion FAQ Section -->
-<section class="w-full px-margin py-space-xl bg-surface-container-low">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl bg-surface-container-low">
 <div class="max-w-4xl mx-auto flex flex-col gap-space-lg">
 <div class="text-center flex flex-col items-center gap-space-xs">
 <span class="font-label-lg text-label-lg text-secondary uppercase tracking-wider">Tanya Jawab Pengadaan</span>

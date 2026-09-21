@@ -17,7 +17,7 @@
 <rect fill="url(#grid-pattern)" height="100%" width="100%"></rect>
 </svg>
 </div>
-<div class="relative w-full px-margin mx-auto max-w-7xl flex flex-col gap-space-lg">
+<div class="relative w-full px-margin-mobile md:px-margin mx-auto max-w-7xl flex flex-col gap-space-lg">
 <!-- Badge & Category Identifier -->
 <div class="flex flex-wrap items-center gap-space-sm">
 <span class="inline-flex items-center gap-space-xs px-space-md py-space-xs rounded-full bg-secondary text-on-secondary font-label-md text-label-md shadow-sm">
@@ -151,7 +151,7 @@
 </section>
 <!-- CLIENT & BRAND SHOWCASE -->
 <section class="w-full bg-surface-container-lowest py-space-lg shadow-sm">
-<div class="w-full px-margin mx-auto max-w-7xl flex flex-col items-center gap-space-md">
+<div class="w-full px-margin-mobile md:px-margin mx-auto max-w-7xl flex flex-col items-center gap-space-md">
 <div class="text-center">
 <span class="font-label-sm text-label-sm uppercase tracking-widest text-outline">Kepercayaan Industri</span>
 <h2 class="font-headline-sm text-headline-sm text-on-surface font-semibold">Dipercaya oleh Puluhan Brand Terkemuka di Indonesia</h2>
@@ -173,7 +173,7 @@
 </section>
 <!-- VALUE PROPOSITION & 4 PILAR KEUNGGULAN -->
 <section class="w-full py-space-xl bg-surface">
-<div class="w-full px-margin mx-auto max-w-7xl flex flex-col gap-space-xl">
+<div class="w-full px-margin-mobile md:px-margin mx-auto max-w-7xl flex flex-col gap-space-xl">
 <!-- Section Header -->
 <div class="flex flex-col md:flex-row md:items-end justify-between gap-space-md">
 <div class="max-w-2xl flex flex-col gap-space-xs">
@@ -257,7 +257,7 @@
 </section>
 <!-- FEATURED OOH LOCATIONS -->
 <section class="w-full py-space-xl bg-surface-container-low">
-<div class="w-full px-margin mx-auto max-w-7xl flex flex-col gap-space-lg">
+<div class="w-full px-margin-mobile md:px-margin mx-auto max-w-7xl flex flex-col gap-space-lg">
 <!-- Section Header -->
 <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-space-md">
 <div>
@@ -441,7 +441,7 @@
 </section>
 <!-- COVERAGE AREA INDONESIA: MAP & REGIONAL BREAKDOWN -->
 <section class="w-full py-space-xl bg-surface">
-<div class="w-full px-margin mx-auto max-w-7xl flex flex-col gap-space-lg">
+<div class="w-full px-margin-mobile md:px-margin mx-auto max-w-7xl flex flex-col gap-space-lg">
 <div class="flex flex-col gap-space-xs text-center max-w-3xl mx-auto">
 <span class="font-label-md text-label-md text-secondary uppercase tracking-widest font-bold">Jangkauan Geografis</span>
 <h2 class="font-headline-xl text-headline-xl text-on-surface font-bold">Cakupan Titik OOH Nasional di 3 Wilayah Utama</h2>
@@ -553,7 +553,7 @@
 </section>
 <!-- CTA BANNER & QUICK INQUIRY SECTION -->
 <section class="w-full py-space-xl bg-surface-container-lowest">
-<div class="w-full px-margin mx-auto max-w-7xl">
+<div class="w-full px-margin-mobile md:px-margin mx-auto max-w-7xl">
 <div class="rounded-2xl bg-gradient-to-r from-primary-container via-surface-tint to-secondary-container p-space-lg md:p-space-xl text-on-primary flex flex-col lg:flex-row items-center justify-between gap-space-lg shadow-xl">
 <div class="flex flex-col gap-space-sm max-w-2xl">
 <span class="inline-flex items-center gap-space-xs px-space-sm py-1 rounded bg-on-primary/20 backdrop-blur font-label-sm text-label-sm uppercase tracking-wider text-on-primary w-fit">

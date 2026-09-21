@@ -4,7 +4,7 @@
 <div class="flex flex-col w-full">
 <!-- Top Command & Header Area -->
 <section class="w-full bg-surface-container-lowest shadow-sm">
-<div class="w-full px-margin py-space-lg flex flex-col gap-space-md">
+<div class="w-full px-margin-mobile md:px-margin py-space-lg flex flex-col gap-space-md">
 <!-- Breadcrumb & Status Pill -->
 <div class="flex flex-wrap items-center justify-between gap-space-sm">
 <div class="flex items-center gap-space-xs font-label-md text-label-md text-on-surface-variant">
@@ -154,7 +154,7 @@
 </section>
 <!-- Live Statistics Bar & Result Summary -->
 <section class="w-full bg-surface-container-low py-space-sm shadow-sm">
-<div class="w-full px-margin flex flex-col md:flex-row md:items-center justify-between gap-space-sm">
+<div class="w-full px-margin-mobile md:px-margin flex flex-col md:flex-row md:items-center justify-between gap-space-sm">
 <div class="flex items-center gap-space-md">
 <span class="font-label-lg text-label-lg text-on-surface">
           Menampilkan <strong class="text-secondary font-bold" id="visible-counter">6</strong> dari <strong class="text-on-surface">842</strong> Titik OOH Tersedia
@@ -188,7 +188,7 @@
 </div>
 </section>
 <!-- Main Catalog Grid Area -->
-<section class="w-full px-margin py-space-xl">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl">
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-space-lg" id="catalog-grid">
 <!-- CARD 1: BG_JAMBI_001 -->
 <article class="ooh-card bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 flex flex-col group" data-city="jambi" data-light="frontlight" data-province="jambi" data-status="available" data-traffic="85000" data-type="billboard">
@@ -574,7 +574,7 @@
 </div>
 </section>
 <!-- Clean Pagination & Interactive Navigator -->
-<section class="w-full px-margin pb-space-lg">
+<section class="w-full px-margin-mobile md:px-margin pb-space-lg">
 <div class="flex flex-col sm:flex-row items-center justify-between gap-space-md p-space-md bg-surface-container-lowest rounded-xl shadow-sm">
 <span class="font-body-sm text-body-sm text-on-surface-variant">
         Halaman <span class="font-semibold text-on-surface">1</span> dari <span class="font-semibold text-on-surface">71</span> (Menampilkan 6 entri per halaman)
@@ -598,7 +598,7 @@
 </div>
 </section>
 <!-- High Impact Custom Media Plan Proposal Banner -->
-<section class="w-full px-margin pb-space-xl" id="custom-brief-banner">
+<section class="w-full px-margin-mobile md:px-margin pb-space-xl" id="custom-brief-banner">
 <div class="relative overflow-hidden rounded-xl bg-primary-container p-space-lg md:p-space-xl text-on-primary shadow-lg flex flex-col lg:flex-row items-center justify-between gap-space-lg">
 <!-- Background Ambient Glow & Graphic -->
 <div class="absolute -right-16 -top-16 w-96 h-96 rounded-full bg-secondary/20 blur-3xl pointer-events-none"></div>

@@ -3,7 +3,7 @@
 @section('content')
 <div class="flex flex-col w-full">
 <!-- SECTION: Hero / Header Introduction -->
-<section class="w-full px-margin py-space-xl">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl">
 <div class="max-w-7xl mx-auto flex flex-col gap-space-lg">
 <div class="flex flex-col items-start gap-space-sm max-w-4xl">
 <div class="inline-flex items-center gap-space-xs px-space-md py-space-xs rounded-full bg-secondary/10 text-secondary">
@@ -63,7 +63,7 @@
 </div>
 </section>
 <!-- SECTION: Corporate Profile & Asymmetric Story Block -->
-<section class="w-full px-margin py-space-xl bg-surface-container-lowest">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl bg-surface-container-lowest">
 <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-space-xl items-center">
 <!-- Media Mosaic with Infrastructure Visuals -->
 <div class="lg:col-span-6 flex flex-col gap-space-md">
@@ -129,7 +129,7 @@
 </div>
 </section>
 <!-- SECTION: Visi, Misi & Pilar Korporat -->
-<section class="w-full px-margin py-space-xl bg-surface">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl bg-surface">
 <div class="max-w-7xl mx-auto flex flex-col gap-space-xl">
 <!-- Section Intro -->
 <div class="text-center max-w-3xl mx-auto flex flex-col gap-space-xs">
@@ -208,7 +208,7 @@
 </div>
 </section>
 <!-- SECTION: Nilai & Keunggulan Korporat (3 Pilar) -->
-<section class="w-full px-margin py-space-xl bg-surface-container-low">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl bg-surface-container-low">
 <div class="max-w-7xl mx-auto flex flex-col gap-space-xl">
 <div class="flex flex-col md:flex-row md:items-end justify-between gap-space-md">
 <div class="flex flex-col gap-space-xs max-w-2xl">
@@ -270,7 +270,7 @@
 </div>
 </section>
 <!-- SECTION: Direct WhatsApp Quick Action Banner -->
-<section class="w-full px-margin py-space-lg">
+<section class="w-full px-margin-mobile md:px-margin py-space-lg">
 <div class="max-w-7xl mx-auto rounded-2xl bg-gradient-to-r from-secondary to-secondary-container text-on-secondary p-space-lg md:p-space-xl shadow-lg flex flex-col md:flex-row items-center justify-between gap-space-lg">
 <div class="flex items-center gap-space-lg">
 <div class="w-16 h-16 rounded-full bg-surface-container-lowest/20 backdrop-blur-md flex items-center justify-center shrink-0">
@@ -289,7 +289,7 @@
 </div>
 </section>
 <!-- SECTION: Hub Kantor Operasional & Informasi Kontak Detail (Point 5B & 11) -->
-<section class="w-full px-margin py-space-xl bg-surface">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl bg-surface">
 <div class="max-w-7xl mx-auto flex flex-col gap-space-xl">
 <div class="flex flex-col gap-space-xs">
 <span class="font-label-sm text-label-sm text-secondary uppercase tracking-wider">Jaringan Kantor &amp; Hub Distribusi</span>
@@ -399,7 +399,7 @@
 </div>
 </section>
 <!-- SECTION: Formulir Inquiry Konsultasi & Interaktif Map Showcase -->
-<section class="w-full px-margin py-space-xl bg-surface-container-low">
+<section class="w-full px-margin-mobile md:px-margin py-space-xl bg-surface-container-low">
 <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-space-xl items-start">
 <!-- Left Column: Form Inquiry Lengkap -->
 <div class="lg:col-span-7 bg-surface-container-lowest p-space-xl rounded-2xl shadow-md flex flex-col gap-space-lg">

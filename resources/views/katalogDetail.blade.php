@@ -4,7 +4,7 @@
 <div class="flex flex-col w-full">
 <!-- BREADCRUMB & HEADER TITIK -->
 <section class="w-full bg-surface-container-low/70 py-space-md">
-<div class="w-full px-margin flex flex-col gap-space-sm">
+<div class="w-full px-margin-mobile md:px-margin flex flex-col gap-space-sm">
 <!-- Breadcrumb -->
 <nav class="flex items-center flex-wrap gap-space-xs font-label-md text-label-md text-on-surface-variant">
 <a class="hover:text-secondary transition-colors flex items-center gap-1" data-path="beranda" href="#">
@@ -56,7 +56,7 @@
 </div>
 </section>
 <!-- TWO-COLUMN WORKBENCH: FLIER VIEWER (LEFT) + SPEC & FORM (RIGHT) -->
-<section class="w-full px-margin py-space-lg">
+<section class="w-full px-margin-mobile md:px-margin py-space-lg">
 <div class="grid grid-cols-1 xl:grid-cols-12 gap-space-lg items-start">
 <!-- LEFT COLUMN: FLIER VIEWER & RICH MEDIA -->
 <div class="xl:col-span-7 2xl:col-span-8 flex flex-col gap-space-md">
@@ -372,7 +372,7 @@
 </section>
 <!-- TITIK STRATEGIS ALTERNATIF DI SEKITARNYA (NEARBY RELATED SPOTS IN JAMBI & SUMATERA) -->
 <section class="w-full bg-surface-container-low/50 py-space-xl">
-<div class="w-full px-margin flex flex-col gap-space-lg">
+<div class="w-full px-margin-mobile md:px-margin flex flex-col gap-space-lg">
 <div class="flex flex-col md:flex-row md:items-end justify-between gap-space-sm">
 <div class="flex flex-col gap-space-xs">
 <span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest font-bold">Network Ekstensi Kampanye</span>

@@ -3,7 +3,7 @@
 @section('content')
 <div class="flex flex-col w-full">
 <!-- HERO SECTION -->
-<section class="relative w-full bg-gradient-to-b from-surface-container-high/40 via-surface to-surface pb-space-xl pt-space-lg px-margin overflow-hidden">
+<section class="relative w-full bg-gradient-to-b from-surface-container-high/40 via-surface to-surface pb-space-xl pt-space-lg px-margin-mobile md:px-margin overflow-hidden">
 <div class="absolute -right-24 -top-24 w-96 h-96 bg-secondary-container/10 rounded-full blur-3xl pointer-events-none"></div>
 <div class="absolute left-1/3 top-1/2 w-80 h-80 bg-surface-container-highest/60 rounded-full blur-2xl pointer-events-none"></div>
 <div class="max-w-7xl mx-auto flex flex-col gap-space-lg relative z-10">
@@ -75,7 +75,7 @@
 </div>
 </section>
 <!-- 4 COMPREHENSIVE SERVICES GRID -->
-<section class="w-full py-space-xl px-margin bg-surface">
+<section class="w-full py-space-xl px-margin-mobile md:px-margin bg-surface">
 <div class="max-w-7xl mx-auto flex flex-col gap-space-xl">
 <div class="flex flex-col md:flex-row md:items-end justify-between gap-space-md">
 <div class="flex flex-col gap-space-xs max-w-2xl">
@@ -257,7 +257,7 @@
 </div>
 </section>
 <!-- WORKFLOW: ALUR KERJA SAMA & STANDAR EKSEKUSI -->
-<section class="w-full py-space-xl px-margin bg-surface-container-low">
+<section class="w-full py-space-xl px-margin-mobile md:px-margin bg-surface-container-low">
 <div class="max-w-7xl mx-auto flex flex-col gap-space-xl">
 <div class="text-center flex flex-col items-center gap-space-xs max-w-3xl mx-auto">
 <span class="font-label-md text-label-md text-secondary uppercase tracking-widest font-bold">Standard Operational Procedure</span>
@@ -346,7 +346,7 @@
 </div>
 </section>
 <!-- SHOWCASE PORTOFOLIO SECTION WITH CLIENT-SIDE FILTER -->
-<section class="w-full py-space-xl px-margin bg-surface" id="portofolio-section">
+<section class="w-full py-space-xl px-margin-mobile md:px-margin bg-surface" id="portofolio-section">
 <div class="max-w-7xl mx-auto flex flex-col gap-space-lg">
 <!-- Section Header -->
 <div class="flex flex-col md:flex-row md:items-end justify-between gap-space-md">
@@ -600,7 +600,7 @@
 </div>
 </section>
 <!-- TESTIMONIALS SECTION -->
-<section class="w-full py-space-xl px-margin bg-surface-container-low">
+<section class="w-full py-space-xl px-margin-mobile md:px-margin bg-surface-container-low">
 <div class="max-w-7xl mx-auto flex flex-col gap-space-xl">
 <div class="flex flex-col md:flex-row md:items-end justify-between gap-space-md">
 <div class="flex flex-col gap-space-xs">
@@ -691,7 +691,7 @@
 </div>
 </section>
 <!-- CLOSING CALL TO ACTION BANNER -->
-<section class="w-full py-space-xl px-margin bg-surface">
+<section class="w-full py-space-xl px-margin-mobile md:px-margin bg-surface">
 <div class="max-w-7xl mx-auto bg-primary rounded-2xl p-space-xl text-on-primary relative overflow-hidden shadow-xl">
 <!-- Decorative Backdrop Glow -->
 <div class="absolute -right-20 -bottom-20 w-80 h-80 rounded-full bg-secondary/30 blur-3xl pointer-events-none"></div>
